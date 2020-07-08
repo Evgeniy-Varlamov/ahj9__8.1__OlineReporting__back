@@ -8,7 +8,7 @@
     "start": "forever server.js",
     "watch": "forever -w server.js"
   },
-  "author": "coursar",
+  "author": "Evgeniy-Varlamov",
   "license": "ISC",
   "dependencies": {
     "forever": "^2.0.0",
